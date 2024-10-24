@@ -1,5 +1,7 @@
 # Scroll-doc-js
 
+live view : https://newgithubuser709.github.io/smooth-scroll/ 
+
 if you want smooth scroll on doc and have ability to customize trasition 
 
 download the smooth-scroll.js file paste in you website folder 📂 and link it with script tag in html as : 
